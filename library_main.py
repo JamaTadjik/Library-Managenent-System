@@ -1,14 +1,4 @@
 
-'''
-Book List
-Search Book
-Borrow book
-Return book
-add book {title, author, genre},{edit book}
-delete book
-Total book
-Popular genres
-'''
 
 
 import os
