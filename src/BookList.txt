@@ -1,0 +1,12 @@
+001 - Python - Anvar - Programming - not taken
+002 - The Lord Of The Rings - J.R.R. Tolkien - Fantasy,Epic Adventure - taken
+003 - To Kill A Mockingbird - Harper Lee - Southern Gothic, Coming-Of-Age - not taken
+004 - Islom - Murodov - Science - not taken
+005 - Dune - Frank Harbert - Science Fiction - not taken
+006 - Beloved - Toni Morrison - Historical Fiction - not taken
+007 - Frankenstein - Mary Shelly - Gothic Novel, Science Fiction - not taken
+008 - Litsey - Teacher Xidirova - Lola - not taken
+009 - Visca Barsa - Messi - Drama - not taken
+010 - Avangers - Toni Stark - Fantasy - not taken
+011 - Blabla - Xlaxla - Hlahla - not taken
+012 -  -  -  - not taken
